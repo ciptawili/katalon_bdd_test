@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>check_readmission</name>
+   <tag></tag>
+   <elementGuidId>1d38be95-e965-49f0-8595-e30e38ae3eb4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>chk_hospotal_readmission</value>
+      <webElementGuid>0f0c09cc-44c9-429d-b075-76a240f8689d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
